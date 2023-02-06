@@ -1,7 +1,7 @@
 # .Net WinForm을 이용한 CSV 파일리더기 및 Text 계산기
 
 CSV 다중 파일을 가져와 합치고, 요약정보를 확인 하는 리더기와 Text입력시 연산이 수행되는 계산기 입니다.<br>
-작업물:[SimpleWinform.zip](https://github.com/JuneHyng/.Net_CSVReader-TextCalculator/files/10658923/SimpleWinform.zip) <br><br>
+작업물:   [SimpleWinform.zip](https://github.com/JuneHyng/.Net_CSVReader-TextCalculator/files/10658923/SimpleWinform.zip) <br><br>
 
 
 (1차 작업기간: 2023.02.01 ~ 2023.02.05)<br>
